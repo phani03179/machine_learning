@@ -6,4 +6,5 @@ Keras
 Tensorflow
 
 Deep learning 
+Statistical understanding 
 
