@@ -7,4 +7,5 @@ Tensorflow
 
 Deep learning 
 Statistical understanding 
+Deep dive on statistical techniques 
 
