@@ -7,5 +7,7 @@ Tensorflow
 
 Deep learning 
 Statistical understanding 
-Deep dive on statistical techniques 
+Deep dive on statistical techniques
+
+Super user to emulate with sociotechno learning 
 
