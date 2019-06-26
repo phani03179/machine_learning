@@ -11,3 +11,5 @@ Deep dive on statistical techniques
 
 Super user to emulate with sociotechno learning 
 
+Semantic boundary selection 
+
