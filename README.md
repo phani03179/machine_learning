@@ -14,3 +14,5 @@ Super user to emulate with sociotechno learning
 Semantic boundary selection 
 
 mobilevnet + heuristics 
+
+Multi machine control of learned voice
