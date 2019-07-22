@@ -16,3 +16,5 @@ Semantic boundary selection
 mobilevnet + heuristics 
 
 Multi machine control of learned voice
+
+Device name and nickname learning
