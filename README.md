@@ -22,3 +22,5 @@ Device name and nickname learning
 Device passing data
 
 Multi turn dialogs
+
+Tensor processing 
