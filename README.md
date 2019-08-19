@@ -24,3 +24,5 @@ Device passing data
 Multi turn dialogs
 
 Tensor processing 
+
+Understanding part distribution to whole
