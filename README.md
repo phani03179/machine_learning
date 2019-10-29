@@ -36,3 +36,5 @@ Color change stream
 Visual cue conversion to other forms
 
 Simultaneous visual frames learning and response 
+
+Semiotics understanding 
