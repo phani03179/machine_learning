@@ -40,3 +40,5 @@ Simultaneous visual frames learning and response
 Semiotics understanding 
 
 Heat map emotion
+
+Shadow development understanding light
