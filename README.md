@@ -42,3 +42,5 @@ Semiotics understanding
 Heat map emotion
 
 Shadow development understanding light
+
+Multi machine learning cross domains
