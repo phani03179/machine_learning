@@ -46,3 +46,5 @@ Shadow development understanding light
 Multi machine learning cross domains
 
 Image disposition understanding 
+
+Machine's brain learning 
