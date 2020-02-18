@@ -48,3 +48,5 @@ Multi machine learning cross domains
 Image disposition understanding 
 
 Machine's brain learning 
+
+Inductive learning 
