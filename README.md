@@ -50,3 +50,5 @@ Image disposition understanding
 Machine's brain learning 
 
 Inductive learning 
+
+Learning limitations 
