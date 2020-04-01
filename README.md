@@ -52,3 +52,5 @@ Machine's brain learning
 Inductive learning 
 
 Learning limitations 
+
+Data augmentation during training
