@@ -54,3 +54,5 @@ Inductive learning
 Learning limitations 
 
 Data augmentation during training
+
+Exponential spread predictions 
