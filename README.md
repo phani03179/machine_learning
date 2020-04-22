@@ -58,3 +58,5 @@ Data augmentation during training
 Exponential spread predictions 
 
 Secret data learning 
+
+Planning deepq model
