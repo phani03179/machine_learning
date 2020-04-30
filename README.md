@@ -62,3 +62,5 @@ Secret data learning
 Planning deepq model
 
 Naive Bayes for feature extraction and refinement with tfidf
+
+Ad click learning
