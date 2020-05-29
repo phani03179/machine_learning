@@ -68,3 +68,5 @@ Ad click learning
 Intent grasp learning
 
 Social media mining
+
+Kids behaviour learning 
