@@ -70,3 +70,5 @@ Intent grasp learning
 Social media mining
 
 Kids behaviour learning 
+
+Sales model learning 
