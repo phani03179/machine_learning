@@ -72,3 +72,5 @@ Social media mining
 Kids behaviour learning 
 
 Sales model learning 
+
+Reading time learning 
