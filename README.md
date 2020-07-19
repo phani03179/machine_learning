@@ -76,3 +76,4 @@ Sales model learning
 Reading time learning 
 
 Task Complexity learning 
+Predictive learning
