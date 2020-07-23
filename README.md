@@ -77,3 +77,5 @@ Reading time learning
 
 Task Complexity learning 
 Predictive learning
+
+Quick study of visual
