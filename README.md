@@ -79,3 +79,5 @@ Task Complexity learning
 Predictive learning
 
 Quick study of visual
+
+Third eye forecast
