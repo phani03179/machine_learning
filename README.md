@@ -81,3 +81,5 @@ Predictive learning
 Quick study of visual
 
 Third eye forecast
+
+Learning distances between objects
