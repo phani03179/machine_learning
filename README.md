@@ -89,3 +89,5 @@ Tpu for deep learning accelerators
 Surface simulation 
 
 Lambda gpu learning
+
+Adaptive object recognition & stiching
