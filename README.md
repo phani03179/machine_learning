@@ -91,3 +91,4 @@ Surface simulation
 Lambda gpu learning
 
 Adaptive object recognition & stiching
+Customized learning for products
