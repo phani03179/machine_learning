@@ -94,3 +94,5 @@ Adaptive object recognition & stiching
 Customized learning for products
 
 Assessing image caption
+
+Text to image learning 
