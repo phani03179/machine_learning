@@ -96,3 +96,5 @@ Customized learning for products
 Assessing image caption
 
 Text to image learning 
+
+Mini agent, macro agent
