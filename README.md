@@ -99,4 +99,6 @@ Text to image learning
 
 Mini agent, macro agent
 
-Cryptic diagram learning from another modal
+Cryptic diagram learning from another model
+
+Qr code learning
