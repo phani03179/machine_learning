@@ -102,3 +102,5 @@ Mini agent, macro agent
 Cryptic diagram learning from another model
 
 Qr code learning
+
+Learning baby sounds
