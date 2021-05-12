@@ -108,3 +108,5 @@ Learning baby sounds
 Industrialisation learning 
 
 Relevant IQ 
+
+Meena,  Switch speech model 
