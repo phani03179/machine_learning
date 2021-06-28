@@ -110,3 +110,5 @@ Industrialisation learning
 Relevant IQ 
 
 Meena,  Switch speech model 
+
+Understanding blockchain codes
